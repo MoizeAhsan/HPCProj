@@ -1,0 +1,9 @@
+[H[2JNUMPROCS 40
+ITERATIONS 5
+PROBLEM SIZE 5000 5000
+elapsed time: 57.577212ms
+elapsed time: 44.493966ms
+elapsed time: 43.14668ms
+elapsed time: 43.227149ms
+elapsed time: 42.085461ms
+Average case: 46.106093ms

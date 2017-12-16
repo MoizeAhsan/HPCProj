@@ -1,0 +1,9 @@
+[H[2JNUMPROCS 30
+ITERATIONS 5
+PROBLEM SIZE 100 100
+elapsed time: 297.662µs
+elapsed time: 195.708µs
+elapsed time: 156.57µs
+elapsed time: 207.953µs
+elapsed time: 266.496µs
+Average case: 224.877µs

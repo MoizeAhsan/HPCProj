@@ -1,0 +1,9 @@
+[H[2JNUMPROCS 48
+ITERATIONS 5
+PROBLEM SIZE 1000 1000
+elapsed time: 3.445013ms
+elapsed time: 2.617598ms
+elapsed time: 2.428204ms
+elapsed time: 2.534125ms
+elapsed time: 2.343704ms
+Average case: 2.673728ms

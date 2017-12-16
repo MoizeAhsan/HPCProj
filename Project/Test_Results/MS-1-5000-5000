@@ -1,0 +1,9 @@
+NUMPROCS 49
+ITERATIONS 5
+PROBLEM SIZE 5000 5000
+elapsed time: 2.631261
+elapsed time: 1.854839
+elapsed time: 1.818565
+elapsed time: 1.822760
+elapsed time: 1.813024
+Average case: 1.988090

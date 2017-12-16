@@ -1,0 +1,9 @@
+[H[2JNUMPROCS 48
+ITERATIONS 5
+PROBLEM SIZE 50 50
+elapsed time: 211.705µs
+elapsed time: 274.599µs
+elapsed time: 228.194µs
+elapsed time: 196.473µs
+elapsed time: 146.99µs
+Average case: 211.592µs

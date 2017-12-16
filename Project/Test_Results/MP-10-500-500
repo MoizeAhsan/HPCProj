@@ -1,0 +1,9 @@
+NUMPROCS 0
+ITERATIONS 5
+PROBLEM SIZE 500 500
+elapsed time: 0.004274
+elapsed time: 0.003219
+elapsed time: 0.003097
+elapsed time: 0.003053
+elapsed time: 0.003013
+Average case: 0.003331
